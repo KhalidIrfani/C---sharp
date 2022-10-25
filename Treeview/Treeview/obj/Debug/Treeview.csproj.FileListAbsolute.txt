@@ -9,3 +9,14 @@ C:\Users\Irfani\source\repos\Treeview\Treeview\obj\Debug\Treeview.csproj.Generat
 C:\Users\Irfani\source\repos\Treeview\Treeview\obj\Debug\Treeview.csproj.CoreCompileInputs.cache
 C:\Users\Irfani\source\repos\Treeview\Treeview\obj\Debug\Treeview.exe
 C:\Users\Irfani\source\repos\Treeview\Treeview\obj\Debug\Treeview.pdb
+F:\git\C---sharp\Treeview\Treeview\bin\Debug\Treeview.exe.config
+F:\git\C---sharp\Treeview\Treeview\bin\Debug\Treeview.exe
+F:\git\C---sharp\Treeview\Treeview\bin\Debug\Treeview.pdb
+F:\git\C---sharp\Treeview\Treeview\obj\Debug\Treeview.csproj.AssemblyReference.cache
+F:\git\C---sharp\Treeview\Treeview\obj\Debug\Treeview.csproj.SuggestedBindingRedirects.cache
+F:\git\C---sharp\Treeview\Treeview\obj\Debug\Treeview.Form1.resources
+F:\git\C---sharp\Treeview\Treeview\obj\Debug\Treeview.Properties.Resources.resources
+F:\git\C---sharp\Treeview\Treeview\obj\Debug\Treeview.csproj.GenerateResource.cache
+F:\git\C---sharp\Treeview\Treeview\obj\Debug\Treeview.csproj.CoreCompileInputs.cache
+F:\git\C---sharp\Treeview\Treeview\obj\Debug\Treeview.exe
+F:\git\C---sharp\Treeview\Treeview\obj\Debug\Treeview.pdb

@@ -16,10 +16,6 @@ namespace Treeview
         {
             InitializeComponent();
             treeView1.Nodes.Add("GCUF");
-        }
-
-        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
-        {
             treeView1.Visible = false;
             treeView1.Nodes[0].Nodes.Add("Physical Sciences");
             treeView1.Nodes[0].Nodes[0].Nodes.Add("Information Technology");
@@ -33,11 +29,32 @@ namespace Treeview
             treeView1.Nodes[0].Nodes[1].Nodes.Add("Bio Informatics");
             treeView1.Nodes[0].Nodes[1].Nodes.Add("Botany");
             treeView1.Nodes[0].Nodes[1].Nodes.Add("Zology");
+          
+            
+            
+            
+            
+            
+            ListBox myList = new ListBox();
+            myList.Location = new Point(12, 12);
+            myList.Size = new Size(245, 200);
+            myList.Items.Add("item1");
+            myList.Items.Add("item2");
+            this.Controls.Add(myList);
+
+        }
+
+        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+            MessageBox.Show(treeView1.SelectedNode.FullPath.ToString());
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             treeView1.Visible = true;
+           // MessageBox.Show(treeView1.SelectedNode.FullPath.ToString);
         }
     }
 }
