@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Language>
+    <ID>001</ID>
+    <English>Hello World!</English>
+    <German>Hello!</German>
+  </Language>
+</DataSet1>
