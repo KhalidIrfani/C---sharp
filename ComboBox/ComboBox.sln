@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBox", "ComboBox\ComboBox.csproj", "{92672439-3BBD-4441-85BC-E3E8C6120BE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new form", "new form\new form.csproj", "{27BE8685-C211-4102-883F-B81E36E1E113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combo1", "Combo1\Combo1.csproj", "{39AAAB58-3313-4B5C-9785-9E0B9B82E2CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{92672439-3BBD-4441-85BC-E3E8C6120BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92672439-3BBD-4441-85BC-E3E8C6120BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92672439-3BBD-4441-85BC-E3E8C6120BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BE8685-C211-4102-883F-B81E36E1E113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BE8685-C211-4102-883F-B81E36E1E113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BE8685-C211-4102-883F-B81E36E1E113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BE8685-C211-4102-883F-B81E36E1E113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39AAAB58-3313-4B5C-9785-9E0B9B82E2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AAAB58-3313-4B5C-9785-9E0B9B82E2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AAAB58-3313-4B5C-9785-9E0B9B82E2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AAAB58-3313-4B5C-9785-9E0B9B82E2CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
